@@ -1,0 +1,28 @@
+﻿<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="36" fill="#FFF4E8"/>
+  <circle cx="742" cy="122" r="68" fill="#FFE0B7"/>
+  <circle cx="176" cy="132" r="56" fill="#F8D9E8"/>
+  <rect x="0" y="560" width="960" height="160" fill="#F4CFA9"/>
+  <rect x="94" y="242" width="772" height="278" rx="28" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="154" y="294" width="196" height="152" rx="22" fill="#F7D7E3"/>
+  <rect x="382" y="294" width="196" height="152" rx="22" fill="#DCEEFF"/>
+  <rect x="610" y="294" width="196" height="152" rx="22" fill="#E6F3D7"/>
+  <circle cx="268" cy="392" r="42" fill="#C85C77"/>
+  <circle cx="496" cy="392" r="42" fill="#4C8DDA"/>
+  <circle cx="724" cy="392" r="42" fill="#78B159"/>
+  <circle cx="338" cy="234" r="60" fill="#E9AE87"/>
+  <path d="M280 218C280 176 314 144 356 144C398 144 432 176 432 218V236H280V218Z" fill="#6A367B"/>
+  <rect x="286" y="290" width="108" height="156" rx="32" fill="#E05A76"/>
+  <rect x="312" y="446" width="24" height="122" rx="12" fill="#5A6C82"/>
+  <rect x="350" y="446" width="24" height="122" rx="12" fill="#5A6C82"/>
+  <rect x="260" y="304" width="36" height="122" rx="18" transform="rotate(16 260 304)" fill="#E9AE87"/>
+  <rect x="392" y="304" width="36" height="122" rx="18" transform="rotate(-16 392 304)" fill="#E9AE87"/>
+  <circle cx="574" cy="258" r="54" fill="#F1BF97"/>
+  <path d="M522 238C522 202 552 174 588 174C624 174 654 202 654 238V254H522V238Z" fill="#305C9A"/>
+  <rect x="530" y="310" width="92" height="138" rx="28" fill="#5D8FD8"/>
+  <rect x="550" y="448" width="20" height="108" rx="10" fill="#4D6683"/>
+  <rect x="584" y="448" width="20" height="108" rx="10" fill="#4D6683"/>
+  <rect x="508" y="324" width="34" height="116" rx="17" transform="rotate(14 508 324)" fill="#F1BF97"/>
+  <rect x="618" y="322" width="34" height="110" rx="17" transform="rotate(-18 618 322)" fill="#F1BF97"/>
+  <text x="480" y="640" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#153A64">महिला सशक्तिकरण और सहायता</text>
+</svg>

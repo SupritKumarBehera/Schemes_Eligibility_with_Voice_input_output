@@ -1,0 +1,28 @@
+﻿<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="36" fill="#F2F8FF"/>
+  <circle cx="792" cy="112" r="62" fill="#D8E9FF"/>
+  <circle cx="158" cy="124" r="48" fill="#E0F0D4"/>
+  <rect x="92" y="162" width="776" height="444" rx="32" fill="#FFFFFF"/>
+  <rect x="132" y="214" width="248" height="148" rx="24" fill="#EAF4FF"/>
+  <rect x="406" y="214" width="422" height="148" rx="24" fill="#F7FBFF"/>
+  <rect x="132" y="390" width="422" height="176" rx="24" fill="#F7FBFF"/>
+  <rect x="580" y="390" width="248" height="176" rx="24" fill="#EAF7EA"/>
+  <rect x="182" y="286" width="42" height="40" rx="8" fill="#5D8FD8"/>
+  <rect x="240" y="260" width="42" height="66" rx="8" fill="#1D4ED8"/>
+  <rect x="298" y="234" width="42" height="92" rx="8" fill="#F97316"/>
+  <path d="M446 316L514 278L572 296L640 244L712 262L782 228" stroke="#1D4ED8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="446" cy="316" r="10" fill="#1D4ED8"/>
+  <circle cx="514" cy="278" r="10" fill="#1D4ED8"/>
+  <circle cx="572" cy="296" r="10" fill="#1D4ED8"/>
+  <circle cx="640" cy="244" r="10" fill="#1D4ED8"/>
+  <circle cx="712" cy="262" r="10" fill="#1D4ED8"/>
+  <circle cx="782" cy="228" r="10" fill="#1D4ED8"/>
+  <rect x="178" y="432" width="52" height="94" rx="10" fill="#78B159"/>
+  <rect x="250" y="462" width="52" height="64" rx="10" fill="#F59E0B"/>
+  <rect x="322" y="414" width="52" height="112" rx="10" fill="#1D4ED8"/>
+  <rect x="394" y="446" width="52" height="80" rx="10" fill="#0F766E"/>
+  <path d="M622 500C664 452 700 430 738 430C776 430 808 452 828 486V530H622V500Z" fill="#8BC570"/>
+  <circle cx="706" cy="456" r="28" fill="#F1BF97"/>
+  <rect x="680" y="486" width="56" height="64" rx="18" fill="#5D8FD8"/>
+  <text x="480" y="654" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#153A64">डैशबोर्ड, ग्राफ और राज्यवार जानकारी</text>
+</svg>

@@ -1,0 +1,32 @@
+﻿<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="720" rx="36" fill="#EAF4FF"/>
+  <circle cx="758" cy="126" r="70" fill="#CFE6FF"/>
+  <circle cx="154" cy="126" r="48" fill="#DDEFD7"/>
+  <rect x="0" y="512" width="960" height="208" fill="#CFE8BF"/>
+  <rect x="0" y="566" width="960" height="154" fill="#9FD18C"/>
+  <path d="M74 512C158 412 260 358 378 350C496 342 598 392 670 468C722 524 814 544 900 512V720H74V512Z" fill="#78B159"/>
+  <rect x="666" y="236" width="132" height="190" rx="12" fill="#EBD7B8"/>
+  <path d="M726 204L824 260H628L726 204Z" fill="#C96E42"/>
+  <rect x="718" y="326" width="28" height="100" rx="8" fill="#9F5A33"/>
+  <circle cx="288" cy="270" r="56" fill="#E0A177"/>
+  <path d="M228 252C228 212 260 182 300 182C338 182 368 210 368 244V264H228V252Z" fill="#2D5D3A"/>
+  <rect x="238" y="326" width="108" height="138" rx="28" fill="#F2B630"/>
+  <rect x="270" y="464" width="28" height="126" rx="14" fill="#2A4866"/>
+  <rect x="314" y="464" width="28" height="126" rx="14" fill="#2A4866"/>
+  <rect x="216" y="342" width="44" height="124" rx="22" transform="rotate(18 216 342)" fill="#E0A177"/>
+  <rect x="344" y="340" width="44" height="124" rx="22" transform="rotate(-18 344 340)" fill="#E0A177"/>
+  <ellipse cx="486" cy="282" rx="52" ry="56" fill="#E8B186"/>
+  <path d="M434 258C434 220 464 194 502 194C540 194 570 224 570 262V276H434V258Z" fill="#813F82"/>
+  <rect x="436" y="340" width="104" height="138" rx="30" fill="#C85C77"/>
+  <rect x="460" y="478" width="24" height="112" rx="12" fill="#4A6482"/>
+  <rect x="498" y="478" width="24" height="112" rx="12" fill="#4A6482"/>
+  <rect x="412" y="354" width="38" height="120" rx="19" transform="rotate(14 412 354)" fill="#E8B186"/>
+  <rect x="526" y="352" width="38" height="116" rx="19" transform="rotate(-18 526 352)" fill="#E8B186"/>
+  <circle cx="610" cy="352" r="40" fill="#F1BF97"/>
+  <path d="M568 340C568 310 592 286 622 286C650 286 672 308 672 336V352H568V340Z" fill="#305C9A"/>
+  <rect x="574" y="392" width="76" height="100" rx="24" fill="#5D8FD8"/>
+  <rect x="590" y="492" width="18" height="88" rx="9" fill="#506685"/>
+  <rect x="618" y="492" width="18" height="88" rx="9" fill="#506685"/>
+  <path d="M728 426C770 426 806 458 814 498H642C650 458 686 426 728 426Z" fill="#FFFFFF" opacity="0.55"/>
+  <text x="480" y="648" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#153A64">किसान और परिवार सहायता</text>
+</svg>
