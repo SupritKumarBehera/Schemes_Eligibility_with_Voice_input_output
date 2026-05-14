@@ -187,7 +187,7 @@ function normalizeMaritalStatus(value) {
     return "अविवाहित";
   }
 
-  if (includesAny(text, ["विधवा", "widow"])) {
+  if (includesAny(text, ["विधवा", "widow", "विधुर", "widower"])) {
     return "विधवा";
   }
 
@@ -264,9 +264,14 @@ const steps = [
   },
   {
     key: "marital_status",
-    question: "आप शादीशुदा हैं, कुंवारे हैं या विधवा हैं?",
-    validate: (value) => ["विवाहित", "अविवाहित", "विधवा"].includes(value),
-    error: "विवाहित, अविवाहित या विधवा में से एक बोलें।",
+    question: "आप शादीशुदा हैं, कुंवारे हैं या विधवा/विधुर हैं?",
+    validate: (value, profile) => {
+      if (!["विवाहित", "अविवाहित", "विधवा"].includes(value)) return false;
+      // A male user cannot be "विधवा" (widow); warn them to correct it
+      if (value === "विधवा" && profile?.gender === "पुरुष") return false;
+      return true;
+    },
+    error: "विवाहित, अविवाहित, या विधवा (महिला) / विधुर (पुरुष) में से सही जवाब दें।",
   },
   {
     key: "farmer",
@@ -417,7 +422,7 @@ export default function AssistantPage() {
 
     addMessage("user", cleanedValue);
 
-    if (!currentStep.validate(cleanedValue)) {
+    if (!currentStep.validate(cleanedValue, profile)) {
       const nextRetry = retryCount + 1;
       setRetryCount(nextRetry);
 
